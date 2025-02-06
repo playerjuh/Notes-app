@@ -1,0 +1,7 @@
+﻿  note-app.c
+C:\Users\playe\OneDrive\Área de Trabalho\C\Test]\notes-app\notes-app\note-app.c(69,9): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\playe\OneDrive\Área de Trabalho\C\Test]\notes-app\notes-app\note-app.c(82,12): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'char *'
+  C:\Users\playe\OneDrive\Área de Trabalho\C\Test]\notes-app\notes-app\note-app.c(82,12):
+  consider using '%hhd' in the format string
+  
+  notes-app.vcxproj -> C:\Users\playe\OneDrive\Área de Trabalho\C\Test]\notes-app\x64\Debug\notes-app.exe
